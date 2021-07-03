@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ExamenPrimeraParteDiego</string>
+    <string-array name="modo">
+        <item>Lista</item>
+        <item>Grilla</item>
+    </string-array>
+    <string-array name="paises">
+        <item>Costa Rica</item>
+        <item>Nicaragua</item>
+        <item>Honduras</item>
+        <item>El Salvador</item>
+        <item>Belice</item>
+    </string-array>
+</resources>
